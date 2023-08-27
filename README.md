@@ -6,3 +6,6 @@ Please Note that it is only working on local host of the system as I am using fr
 ![bg-news](https://github.com/Pallab-18/NewsPC/assets/99742232/06f75937-a184-4771-b9d2-5a81e2d397e6)
 
 ![Screenshot (182)](https://github.com/Pallab-18/NewsPC/assets/99742232/a4729a76-9580-4221-b113-944080c9f1e6)
+
+
+![Screenshot (184)](https://github.com/Pallab-18/NewsPC/assets/99742232/ee5e4586-70c4-4466-854d-ad6c3695c9d0)
