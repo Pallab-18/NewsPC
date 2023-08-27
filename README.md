@@ -4,3 +4,4 @@ Please Note that it is only working on local host of the system as I am using fr
 
 
 ![bg-news](https://github.com/Pallab-18/NewsPC/assets/99742232/06f75937-a184-4771-b9d2-5a81e2d397e6)
+![Screenshot (183)](https://github.com/Pallab-18/NewsPC/assets/99742232/3f5ae66e-8af6-4323-9c5d-1e85f1c738a7)
